@@ -35,8 +35,9 @@ I'm immensely grateful to Interns Pakistan for providing me with the opportunity
 Let's stay connected! Feel free to reach out for any questions or discussions related to this project or front-end development in general.
 
 - LinkedIn: Abdullah Siddiqui 
+https://www.linkedin.com/in/abdullah-siddiqui-22172127a
 - Email: siddiquiabdullah746@gmail.com
 
 ---
-Feel free to customize this README further based on your project's specific details and preferences. COVID-19-Screening-Test-App
+
 
